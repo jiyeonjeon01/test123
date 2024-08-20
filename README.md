@@ -28,6 +28,9 @@
 ## ✏️요구사항 명세서 
 
 ## ⚙️ERD
+[ERD 바로가기](https://www.erdcloud.com/d/bHwGquKuqyZhcPCKa)
+![image](https://github.com/user-attachments/assets/9a393ca0-5fa9-4ffe-8e73-897ce48c3fdd)
+
 
 ## 💻화면 설계서 
 
