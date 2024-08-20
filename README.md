@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 ## ✏️요구사항 명세서 
+[요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=0#gid=0)
+![image](https://github.com/user-attachments/assets/8bafe96b-2d67-4e95-b9a4-197d8f6c7c9a)
+
 
 ## ⚙️ERD
 [ERD 바로가기](https://www.erdcloud.com/d/bHwGquKuqyZhcPCKa)
