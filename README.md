@@ -52,7 +52,12 @@
 <br>
 <br>
 
-## 📋 ERD 
+## 📋 모델링
+[테이블 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1603772059#gid=1603772059)
+<br>
+![image](https://github.com/user-attachments/assets/c09685b4-d66d-4532-b5f6-27ac8c03b27e)
+
+
 [ERD 바로가기](https://www.erdcloud.com/d/bHwGquKuqyZhcPCKa)
 ![image](https://github.com/user-attachments/assets/9a393ca0-5fa9-4ffe-8e73-897ce48c3fdd)
 
