@@ -53,8 +53,12 @@
 <br>
 
 ## 기능 명세서
-[기능 명세서](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1210692566#gid=1210692566
+[기능 명세서](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1210692566#gid=1210692566)
+![image](https://github.com/user-attachments/assets/912ecb81-c34b-4b79-98f8-8b64bdea27e4)
 
+
+<br>
+<br>
 
 ## 📋 모델링
 [테이블 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1603772059#gid=1603772059)
