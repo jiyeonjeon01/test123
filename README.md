@@ -24,7 +24,7 @@
 ## 👨‍💻 팀원 
 |계용운<br>(팀장)|서현지|윤호연|이지정|전지연|최규범|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/76439014?v=4" width="100" height="100"/>|사진2|<img src="https://avatars.githubusercontent.com/u/84115607?v=4" width="100" height="100"/>|사진4|사진5|사진6|
+|<img src="https://avatars.githubusercontent.com/u/76439014?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/136338584?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/84115607?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/80452437?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/101792825?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/122086362?v=4" width="100" height="100"/>|
 
 
 <br>
