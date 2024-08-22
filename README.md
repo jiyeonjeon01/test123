@@ -73,7 +73,8 @@
 
 ## 💻 화면 설계서 
 [Figma 바로가기](https://www.figma.com/design/EV81DsJRDIgnZxRSLyqw3A/Untitled?node-id=0-1&t=IAdWOXM1TXy2L9wM-0)
-![image](https://github.com/user-attachments/assets/6f83a21b-3fd5-4693-86e3-df5e4eae0a05)
+![image](https://github.com/user-attachments/assets/1d2b8fcb-e228-4012-bfd5-576cb3dd7664)
+
 
 <br>
 <br>
