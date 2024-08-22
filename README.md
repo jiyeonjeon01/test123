@@ -42,8 +42,8 @@
 
 ## ✏️ 요구사항 명세서 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=0#gid=0)
-![image](https://github.com/user-attachments/assets/c5b36048-f1d6-40f2-ba3f-a73ac7caa747)
-![image](https://github.com/user-attachments/assets/eb74bc15-679a-448f-9beb-3712a2850caf)
+![image](![image](https://github.com/user-attachments/assets/79bc81b2-52d3-4497-9704-76d02dd481f9)
+
 
 <br>
 <br>
