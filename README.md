@@ -60,8 +60,8 @@
 ## 📋 모델링
 [테이블 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1603772059#gid=1603772059)
 <br>
-![image]![image](https://github.com/user-attachments/assets/c98dad27-5fb6-4402-8a22-340d36f12897)
-)
+![image](https://github.com/user-attachments/assets/c98dad27-5fb6-4402-8a22-340d36f12897)
+
 
 
 [ERD 바로가기](https://www.erdcloud.com/d/bHwGquKuqyZhcPCKa)
