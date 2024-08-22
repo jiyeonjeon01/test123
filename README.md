@@ -6,11 +6,12 @@
 
 <br>
 <br>
-
-## 👨‍💻 팀원 
-|계용운<br>(팀장)|서현지|윤호연|이지정|전지연|최규범|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/76439014?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/136338584?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/84115607?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/80452437?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/101792825?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/122086362?v=4" width="100" height="100"/>|
+<div align=center>
+## 👨‍💻 팀원 </div>
+<div align=center>
+|계용운<br>(팀장)|서현지|윤호연|이지정|전지연|최규범|</div>
+<div align=center>|:---:|:---:|:---:|:---:|:---:|:---:|</div>
+<div align=center>|<img src="https://avatars.githubusercontent.com/u/76439014?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/136338584?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/84115607?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/80452437?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/101792825?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/122086362?v=4" width="100" height="100"/>|</div>
 
 <br>
 <br>
