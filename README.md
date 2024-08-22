@@ -1,6 +1,6 @@
 # be08-3rd-LetMeIn-NalBwaJwo
 
-![image](https://github.com/user-attachments/assets/0725d434-5bb7-4137-9a1b-dc982e7b6c1b)
+![image](https://media.discordapp.net/attachments/1269886385955799040/1275991720789676053/image.png?ex=66c7e765&is=66c695e5&hm=ecad03e3bd8b70493ce4e25203495c5c60d07f59a3a0dae44e1087fb33f96a1d&=&format=webp&quality=lossless&width=910&height=508)
 
 
 
