@@ -81,7 +81,8 @@
 
 ## 📚 WBS
 [WBS 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1210692566#gid=1210692566)
-![image](https://github.com/user-attachments/assets/1df54bf8-a0ab-4c7e-b041-ceb47be9328e)
+![image](https://github.com/user-attachments/assets/b074a957-5f70-4744-8a7c-b0df198c4e73)
+
 
 
 <br>
