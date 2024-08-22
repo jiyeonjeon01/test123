@@ -50,7 +50,8 @@
 
 ## 📁 기능 명세서
 [기능 명세서](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1210692566#gid=1210692566)
-![image](https://github.com/user-attachments/assets/912ecb81-c34b-4b79-98f8-8b64bdea27e4)
+![image](https://github.com/user-attachments/assets/3211f3b0-4447-4736-9629-d83be76ab902)
+
 
 
 <br>
