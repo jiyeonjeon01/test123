@@ -42,14 +42,18 @@
 
 ## ✏️ 요구사항 명세서 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=0#gid=0)
-![image](https://github.com/user-attachments/assets/8bafe96b-2d67-4e95-b9a4-197d8f6c7c9a)
+![image](https://github.com/user-attachments/assets/912ecb81-c34b-4b79-98f8-8b64bdea27e4)
 
 <br>
 <br>
 
 ## 📁 기능 명세서
 [기능 명세서](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1210692566#gid=1210692566)
-![image](https://github.com/user-attachments/assets/912ecb81-c34b-4b79-98f8-8b64bdea27e4)
+![image](https://github.com/user-attachments/assets/c5b36048-f1d6-40f2-ba3f-a73ac7caa747)
+![image](https://github.com/user-attachments/assets/eb74bc15-679a-448f-9beb-3712a2850caf)
+
+)
+
 
 
 <br>
@@ -58,7 +62,8 @@
 ## 📋 모델링
 [테이블 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N5Ki46fUt2ips9-_E4Fl_BENWiWv6BDpHgMQuWn-99Q/edit?gid=1603772059#gid=1603772059)
 <br>
-![image](https://github.com/user-attachments/assets/c09685b4-d66d-4532-b5f6-27ac8c03b27e)
+![image]![image](https://github.com/user-attachments/assets/c98dad27-5fb6-4402-8a22-340d36f12897)
+)
 
 
 [ERD 바로가기](https://www.erdcloud.com/d/bHwGquKuqyZhcPCKa)
